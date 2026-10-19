@@ -1,0 +1,13 @@
+{
+  "name": "status-is-down",
+  "version": "1.0.0",
+  "description": "Outage intelligence for 13,500+ online services: live status, report history, geography and spike detection. Six read-only MCP tools; connect your Status Is Down business account.",
+  "author": {
+    "name": "SID Monitor Pte Ltd"
+  },
+  "homepage": "https://statusisdown.com/business/mcp",
+  "repository": "https://github.com/sidgthub/status-is-down-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["outages", "status", "downtime", "monitoring", "sre", "mcp"],
+  "logo": "logo.png"
+}
