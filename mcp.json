@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "status-is-down": {
+      "url": "https://statusisdown.com/api/mcp"
+    }
+  }
+}
